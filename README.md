@@ -1,4 +1,4 @@
-Project Name: Image Captioning System To Assist The Blind
+Project Name: Sightless Support: AI Image Captioning System
 ============================================================
 The project is aimed at developing a system using deep learning techniques to assist visually impaired individuals in obtaining information by describing images taken by them.
 
